@@ -1,0 +1,14 @@
+{
+  "name": "rsshub-vercel",
+  "version": "1.0.0",
+  "description": "A wrapper of RSSHub for vercel with easy updates.",
+  "main": "app/index.js",
+  "keywords": [],
+  "author": "MaxChang3",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "module-alias": "^2.2.2",
+    "rsshub": "1.0.0-master.f91e29d"
+  }
+}
